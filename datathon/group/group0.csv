@@ -1,0 +1,13 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+0,frozenset({'Organic Root Vegetables & Apples with Beef Stage 3 Baby Food'}),frozenset({'Organic Hummus'}),0.0010070493454179255,0.0010070493454179255,0.0010070493454179255,1.0,993.0,0.001006035197033819,inf
+1,frozenset({'Organic Hummus'}),frozenset({'Organic Root Vegetables & Apples with Beef Stage 3 Baby Food'}),0.0010070493454179255,0.0010070493454179255,0.0010070493454179255,1.0,993.0,0.001006035197033819,inf
+2,frozenset({'Lemonade Sports Drink'}),frozenset({'Whole Milk'}),0.0010070493454179255,0.0030211480362537764,0.0010070493454179255,1.0,331.0,0.0010040069002656055,inf
+3,frozenset({'Cheese Puffs Original'}),frozenset({'Mild Italian Chicken Sausage'}),0.0010070493454179255,0.0010070493454179255,0.0010070493454179255,1.0,993.0,0.001006035197033819,inf
+4,frozenset({'Mild Italian Chicken Sausage'}),frozenset({'Cheese Puffs Original'}),0.0010070493454179255,0.0010070493454179255,0.0010070493454179255,1.0,993.0,0.001006035197033819,inf
+5,frozenset({'Pinot Noir Wine'}),frozenset({'Vodka'}),0.0010070493454179255,0.0010070493454179255,0.0010070493454179255,1.0,993.0,0.001006035197033819,inf
+6,frozenset({'Vodka'}),frozenset({'Pinot Noir Wine'}),0.0010070493454179255,0.0010070493454179255,0.0010070493454179255,1.0,993.0,0.001006035197033819,inf
+7,frozenset({'Vodka Pasta Sauce'}),frozenset({'1% Low Fat Milk'}),0.0010070493454179255,0.0010070493454179255,0.0010070493454179255,1.0,993.0,0.001006035197033819,inf
+8,frozenset({'1% Low Fat Milk'}),frozenset({'Vodka Pasta Sauce'}),0.0010070493454179255,0.0010070493454179255,0.0010070493454179255,1.0,993.0,0.001006035197033819,inf
+9,frozenset({'Supergreens!'}),frozenset({'Bag of Organic Bananas'}),0.0010070493454179255,0.017119838872104734,0.0010070493454179255,1.0,58.41176470588235,0.000989808822888112,inf
+10,frozenset({'Professionals Moroccan Infusion Shine Conditioner'}),frozenset({'Cantina Traditional Tortilla Chips'}),0.0010070493454179255,0.0010070493454179255,0.0010070493454179255,1.0,993.0,0.001006035197033819,inf
+11,frozenset({'Cantina Traditional Tortilla Chips'}),frozenset({'Professionals Moroccan Infusion Shine Conditioner'}),0.0010070493454179255,0.0010070493454179255,0.0010070493454179255,1.0,993.0,0.001006035197033819,inf
